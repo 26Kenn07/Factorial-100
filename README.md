@@ -2,7 +2,6 @@
 How to find factorial of 100 in JAVA
 
 //How to find the factorial of 100
-
 public class Main{
     public static void main(String[] args){
         
